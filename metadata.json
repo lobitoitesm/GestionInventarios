@@ -1,0 +1,6 @@
+{
+  "name": "Gestión de Inventarios y Requisiciones",
+  "description": "Sistema avanzado para la gestión de artículos de stock, aprobación de requisiciones de compras, control de marcas y ubicaciones, y monitoreo de movimientos con reportes detallados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
